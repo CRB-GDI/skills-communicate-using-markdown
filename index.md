@@ -6,6 +6,6 @@
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
-- [x] Yellow
-- [x] Long
-- [x] Yum
+- [ ] Eat banana
+- [ ] Get more banana
+- [ ] Eat banana
